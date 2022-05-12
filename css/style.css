@@ -76,7 +76,7 @@ body {
     size-adjust: auto;
     text-align: center;
     z-index: 0;
-    filter: blur(70px);
+    filter: blur(60px);
     position: absolute;
     left: 5%;
     opacity: 70%;
@@ -88,12 +88,14 @@ body {
     filter: opacity(0.6) drop-shadow(0 0 0 black);
     min-height: 100%;  
     max-width: 100%;
-    size-adjust: auto;
+    size-adjust: 100%;
     text-align: center;
     z-index: 1;
     position: relative;
     opacity: 90%;
     display: block;
+    margin-left: 0%;
+    margin-right: 0%;
 }
 
 /* Nome ao lado do menu */
