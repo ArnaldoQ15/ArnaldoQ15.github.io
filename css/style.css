@@ -43,7 +43,8 @@ a:hover {
     font-size: 120%;
     background-color: #360e01;
     display: inline-block;
-    max-height: 9%;
+    height: 9%;
+    max-height: 30%;
     opacity: 95%;
 }
 
