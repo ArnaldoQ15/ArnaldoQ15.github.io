@@ -33,7 +33,7 @@ a:hover {
     position: absolute;  
     top: 0%;
     left: 50%;
-    margin-right: -50%;
+    margin-top: 2%;
     transform: translate(-50%, -50%);
     width: 100%;
     max-width: 100%;
@@ -45,7 +45,6 @@ a:hover {
     height: 9%;
     max-height: 20%;
     opacity: 95%;
-    padding-top: 3%;
 }
 
 /* Mais configurações do menu */
