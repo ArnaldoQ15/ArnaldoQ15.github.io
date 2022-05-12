@@ -31,7 +31,6 @@ a:hover {
 /* Menu */
 #navbar {
     position: absolute;  
-    top: 0%;
     left: 50%;
     margin-top: 2%;
     transform: translate(-50%, -50%);
@@ -52,7 +51,7 @@ li {
     top: 0%;
     float: right;
     list-style-type: none;
-    padding: 2%;
+    padding: 2.3%;
     max-width: 100%;
 }
 
