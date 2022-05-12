@@ -31,27 +31,25 @@ a:hover {
 /* Menu */
 #navbar {
     position: absolute;  
-    left: 50%;
-    margin-top: 2%;
-    transform: translate(-50%, -50%);
+    margin-top: 0%;
     width: 100%;
     max-width: 100%;
     z-index: 5; 
     text-align: center;
-    font-size: 120%;
+    font-size: 140%;
     background-color: #360e01;
-    display: inline-block;
-    height: 9%;
-    max-height: 20%;
+    display: block;
+    height: 10%;
+    max-height: 10%;
     opacity: 95%;
 }
 
 /* Mais configurações do menu */
 li {
-    top: 0%;
+    top: 2%;
     float: right;
     list-style-type: none;
-    padding: 2.3%;
+    padding: 2%;
     max-width: 100%;
 }
 
@@ -103,7 +101,7 @@ body {
     top: 3%;
     left: 32%;
     margin-right: -50%;
-    transform: translate(-45%, -48%);
+    transform: translate(-45%, -35%);
     width: 60%;
     max-width: 60%;
     margin-top: 0;  
