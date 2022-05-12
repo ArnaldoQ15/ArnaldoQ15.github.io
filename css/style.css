@@ -35,7 +35,8 @@ a:hover {
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
-    width: 100%;  
+    width: 100%;
+    max-width: 100%;
     margin-top: 0;  
     z-index: 5; 
     text-align: center;
@@ -100,8 +101,8 @@ body {
     top: 3%;
     left: 32%;
     margin-right: -50%;
-    transform: translate(-50%, -50%);
-    min-width: 60%;
+    transform: translate(-45%, -48%);
+    width: 60%;
     max-width: 60%;
     margin-top: 0;  
     z-index: 6; 
