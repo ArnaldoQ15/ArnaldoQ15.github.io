@@ -30,7 +30,7 @@ a:hover {
 
 /* Menu */
 #navbar {
-    position: fixed;  
+    position: absolute;  
     top: 3%;
     left: 50%;
     margin-right: -50%;
