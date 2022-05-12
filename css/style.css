@@ -81,6 +81,7 @@ body {
     left: 5%;
     opacity: 70%;
     display: block;
+    overflow: hidden;
 }
 
 /* Vídeo de fundo sem blur */
@@ -94,8 +95,8 @@ body {
     position: relative;
     opacity: 90%;
     display: block;
-    margin-left: 0%;
-    margin-right: 0%;
+    align-items: center;
+    overflow: hidden;
 }
 
 /* Nome ao lado do menu */
